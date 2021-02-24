@@ -1,4 +1,4 @@
-﻿Const desiredScore = 9.5
+﻿Const desiredScore = 9.0
 Browser("Advantage Shopping").Page("Advantage Shopping").Link("HeadphonesCategory").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").Link("HeadphonesCategory")_;_script infofile_;_ZIP::ssf1.xml_;_
 Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Beats Studio 2 Over-Ear").Click @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("Beats Studio 2 Over-Ear")_;_script infofile_;_ZIP::ssf2.xml_;_
 foo = Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("score").Exist (20) @@ hightlight id_;_Browser("Advantage Shopping").Page("Advantage Shopping").WebElement("9.3")_;_script infofile_;_ZIP::ssf3.xml_;_
